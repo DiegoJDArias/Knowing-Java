@@ -1,9 +1,7 @@
 package operadores;
 
-/**
- * 
+/*
  * @author Diego J D Arias
- * 
  */
 public class OperadoresUnarios {
 
