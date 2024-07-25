@@ -1,3 +1,6 @@
+/*
+ * @author Diego J D Arias
+ */
 package postcondiciones;
 
 public class Pila {
