@@ -1,5 +1,7 @@
 package constantes;
-
+/*
+ * @author Diego J D Arias
+ */
 public class VerificarAvogadro {
 
 	/**
