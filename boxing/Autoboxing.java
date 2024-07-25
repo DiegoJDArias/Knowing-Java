@@ -1,8 +1,6 @@
 package boxing;
-/**
- * 
+/*
  * @author Diego J D Arias
- *
  */
 public class Autoboxing {
 	public static void main(String[] args) {
