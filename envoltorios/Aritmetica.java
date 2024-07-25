@@ -1,5 +1,7 @@
 package envoltorios;
-
+/*
+ * @author Diego J D Arias
+ */
 public class Aritmetica {
 
 	/*
