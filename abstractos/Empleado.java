@@ -2,11 +2,10 @@ package abstractos;
 
 import constructores.conthis.Fecha;
 
-/**
- * 
- * @author Diego J D Arias.
- * 
- */
+/* /////////////////////////////////////////////////
+   Author Diego J D Arias - diegojdarias@gmail.com.
+*/////////////////////////////////////////////////
+
 public abstract class Empleado {
 	
 	protected String nombre;
