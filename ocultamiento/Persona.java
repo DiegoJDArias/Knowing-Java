@@ -40,5 +40,4 @@ public class Persona {
 	public void setSegundoNombre(String string) {
 		segundoNombre = string;
 	}
-
 }
