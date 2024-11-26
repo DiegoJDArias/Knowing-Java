@@ -2,7 +2,7 @@ package inicializar;
 
 public class PasajesDeParametros {
 
-	// Métodos para cambiar los valores actuales
+	// MÃ©todos para cambiar los valores actuales.
 	public void cambiarEntero(int valor) {
 		valor = 55;
 	}
@@ -24,7 +24,7 @@ public class PasajesDeParametros {
 		val = 11;
 		// Intento de cambiarlo
 		p.cambiarEntero(val);
-		// ¿Cuál es el valor actual?
+		// Â¿CuÃ¡l es el valor actual?
 		System.out.println("El valor del entero es: " + val);
 
 		System.out.println("-------------------");
@@ -33,15 +33,15 @@ public class PasajesDeParametros {
 		h = new Horario(2, 8, 45, 12, 45, 3);
 		// Intento por cambiarlo
 		p.cambiarRefObjeto(h);
-		// ¿Cuál es el valor actual?
+		// Â¿CuÃ¡l es el valor actual?
 		h.imprimir();
 
 		System.out.println("-------------------");
 		
 		// Cambiando el atributo day
-		// a través de la referencia al objeto
+		// a travÃ©s de la referencia al objeto
 		p.cambiarAtributoObjeto(h);
-		// ¿Cuál es el valor actual?
+		// Â¿CuÃ¡l es el valor actual?
 		h.imprimir();
 	}
 }
