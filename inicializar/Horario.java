@@ -1,8 +1,8 @@
 package inicializar;
 
 /**
- * Esta clase esta diseñada para manejar horarios de ingreso y egreso de médicos
- * de una clínica
+ * Esta clase esta diseÃ±ada para manejar horarios de ingreso y egreso de mÃ©dicos
+ * de una clÃ­nica.
  */
 
 public class Horario {
@@ -40,7 +40,7 @@ public class Horario {
 
 	public void imprimir() {
 		System.out.println("Horario: ");
-		System.out.println("Día: " + dia);
+		System.out.println("DÃ­a: " + dia);
 		System.out.println("Hora de comienzo: " + horaComienzo);
 		System.out.println("Minutos de comienzo: " + minutosComienzo);
 		System.out.println("Hora de fin: " + horaFin);
