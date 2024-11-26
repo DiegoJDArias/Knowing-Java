@@ -6,6 +6,5 @@ public class UsaPersona {
 		
 		p.setApellido("Arias");
 		System.out.println(p.getApellido());
-		
 	}
 }
