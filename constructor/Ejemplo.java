@@ -10,7 +10,5 @@ public class Ejemplo {
 	
 	public static void main(String[] args) {
 		Ejemplo obj = new Ejemplo(8);
-
 	}
-
 }
