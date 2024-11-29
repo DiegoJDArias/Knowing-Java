@@ -1,9 +1,9 @@
 package abstractos;
-/**
- * 
- * @author Diego J D Arias
- *
- */
+
+/* /////////////////////////////////////////////////
+   Author Diego J D Arias - diegojdarias@gmail.com.
+*/////////////////////////////////////////////////
+
 class Gerente extends Empleado {
 	
 	private String departamento;
