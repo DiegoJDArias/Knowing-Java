@@ -1,5 +1,9 @@
 package visibilidad;
 
+/* /////////////////////////////////////////////////
+   Author Diego J D Arias - diegojdarias@gmail.com.
+*/////////////////////////////////////////////////
+
 public class Visibilidad {
 	private int i = 1;
 
