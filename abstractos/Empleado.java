@@ -13,5 +13,4 @@ public abstract class Empleado {
 	protected Fecha fechaNacimiento;
 
 	public abstract String getDetalles(); 
-
 }
