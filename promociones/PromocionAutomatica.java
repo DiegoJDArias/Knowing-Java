@@ -1,9 +1,9 @@
 package promociones;
-/**
- * 
- * @author Diego J D Arias
- *
- */
+
+/* /////////////////////////////////////////////////
+   Author Diego J D Arias - diegojdarias@gmail.com.
+*/////////////////////////////////////////////////
+
 public class PromocionAutomatica {
 
 	/**
