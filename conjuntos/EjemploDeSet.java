@@ -1,5 +1,9 @@
 package conjuntos;
 
+/* /////////////////////////////////////////////////
+   Author Diego J D Arias - diegojdarias@gmail.com.
+*/////////////////////////////////////////////////
+
 import java.util.*;
 
 import javax.print.attribute.Size2DSyntax;
