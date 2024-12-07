@@ -1,0 +1,9 @@
+package herencia;
+
+/* /////////////////////////////////////////////////
+   Author Diego J D Arias - diegojdarias@gmail.com.
+*/////////////////////////////////////////////////
+
+public class Super {
+	Number unNumero;
+}
