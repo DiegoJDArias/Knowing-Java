@@ -14,7 +14,7 @@ public class EjemploMap {
 		mapa.put("uno", "1ro");
 		// La siguiente llnea da error de compilacion
 		//		mapa.put("segundo", new Integer(2));
-		mapa.put("tercero", "3�");
+		mapa.put("tercero", "3°");
 		// Sobrescribe la asignacion anterior
 		mapa.put("tercero", "III");
 		// Devuelve el conjunto de las claves
