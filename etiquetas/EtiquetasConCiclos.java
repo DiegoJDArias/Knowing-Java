@@ -1,7 +1,7 @@
 package etiquetas;
 
 /* /////////////////////////////////////////////////
-   Author Diego J D Arias - diegojdarias@gmail.com.
+   Author Diego J D Arias - diegojdarias@gmail.com..
 */////////////////////////////////////////////////
 
 public class EtiquetasConCiclos {
