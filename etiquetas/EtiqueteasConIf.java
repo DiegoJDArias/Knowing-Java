@@ -8,7 +8,7 @@ public class EtiqueteasConIf {
 	public static void main(String[] args) {
 		int contador = 0;
 
-		// Verificar break en una etiqueta asociada a un bloque
+		// Verificar break en una etiqueta asociada a un bloque.
 		etiqueta1: {
 			System.out.println("antes de etiqueta1");
 			if (contador == 0) {
